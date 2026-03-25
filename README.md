@@ -6,7 +6,7 @@ An interactive Ecommerce Sales Dashboard built using Power BI to analyze key bus
 - Identify top states and customers  
 - Understand category and payment trends
 -  
-# 📂 Dataset
+# Dataset
 The dataset includes:
 - Order details (Amount, Profit, Quantity)  
 - Customer information (Customer Name)  
@@ -19,7 +19,7 @@ The dataset includes:
 - Data Modeling  
 - DAX
 
-# 🚀 Key Features & Insights
+# Key Features & Insights
 - Applied interactive filters (Quarter, State) to analyze sales across regions and time  
 - Enabled cross-filtering between visuals for better data exploration  
 - Designed KPI cards to track sales, profit, AOV, and quantity  
@@ -28,5 +28,8 @@ The dataset includes:
 - Explored payment modes to study customer preferences  
 - Visualized monthly profit trends to observe patterns
 
-#  Dashboard Snapshot
+# Dashboard Snapshot
 ![Dashboard](https://github.com/laxmi-reballiwar/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)
+
+# Demo
+[Dashboard Demo](https://www.linkedin.com/feed/update/urn:li:activity:7442186202071347200/?originTrackingId=0iCRyHkH90UKDIJ%2Bp0i3yw%3D%3D)
