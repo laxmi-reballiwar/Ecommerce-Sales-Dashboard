@@ -29,4 +29,4 @@ The dataset includes:
 - Visualized monthly profit trends to observe patterns
 
 #  Dashboard Snapshot
-![Dashboard](
+![Dashboard](https://github.com/laxmi-reballiwar/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)
