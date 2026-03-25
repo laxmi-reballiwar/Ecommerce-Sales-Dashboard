@@ -29,3 +29,4 @@ The dataset includes:
 - Visualized monthly profit trends to observe patterns
 
 #  Dashboard Snapshot
+![Dashboard](
