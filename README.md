@@ -5,7 +5,7 @@ An interactive Ecommerce Sales Dashboard built using Power BI to analyze key bus
 - Analyze sales and profit performance  
 - Identify top states and customers  
 - Understand category and payment trends
--  
+  
 # Dataset
 The dataset includes:
 - Order details (Amount, Profit, Quantity)  
